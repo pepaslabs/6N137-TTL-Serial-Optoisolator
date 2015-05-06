@@ -1,0 +1,101 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 5/5/2015 10:31:08 PM
+
+BeginCmp
+TimeStamp = /5549894D;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = CERCAP_2_059B_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55498A12;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = CERCAP_2_059B_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /554983EB;
+Reference = IC1;
+ValeurCmp = 6N137;
+IdModule  = DIP8_059Bi_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554984AB;
+Reference = IC2;
+ValeurCmp = 6N137;
+IdModule  = DIP8_059Bi_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554657AF;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /55465835;
+Reference = P2;
+ValeurCmp = CONN_4;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5546F340;
+Reference = Q1;
+ValeurCmp = 2N3906;
+IdModule  = TO-92_Q_EBC_059Bo_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5546F361;
+Reference = Q2;
+ValeurCmp = 2N3906;
+IdModule  = TO-92_Q_EBC_059Bo_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /55465781;
+Reference = R1;
+ValeurCmp = 4.7k;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5546D91C;
+Reference = R2;
+ValeurCmp = 330;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5546D97D;
+Reference = R3;
+ValeurCmp = 470;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /55465B77;
+Reference = R4;
+ValeurCmp = 470;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5546D98C;
+Reference = R5;
+ValeurCmp = 330;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5546D977;
+Reference = R6;
+ValeurCmp = 4.7k;
+IdModule  = R_AXIAL_0W25_059A_PL;
+EndCmp
+
+EndListe

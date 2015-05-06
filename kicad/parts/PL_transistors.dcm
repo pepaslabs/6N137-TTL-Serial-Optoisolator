@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0  Date: 5/3/2015 10:15:39 PM
+#
+$CMP NPN_CBE
+D NPN Transistor, CBE pinout
+$ENDCMP
+#
+$CMP NPN_EBC
+D NPN Transistor, EBC pinout
+$ENDCMP
+#
+$CMP PNP_CBE
+D PNP Transistor, CBE pinout
+$ENDCMP
+#
+$CMP PNP_EBC
+D PNP Transistor, EBC pinout
+$ENDCMP
+#
+#End Doc Library
