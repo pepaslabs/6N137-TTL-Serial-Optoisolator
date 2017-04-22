@@ -19,7 +19,7 @@ Initial board design.
 
 ## Schematic
 
-[PDF](releases/v1/6N37-TTL-Serial-Optoisolator%20schematic.pdf).
+[PDF](releases/v1/6N137-TTL-Serial-Optoisolator%20schematic.pdf).
 
 # License
 
