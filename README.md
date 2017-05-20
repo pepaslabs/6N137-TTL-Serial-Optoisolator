@@ -29,3 +29,7 @@ Initial board design.
 
 This board design is [Open-Source Hardware](http://www.oshwa.org/definition/).  It is licensed under the [MIT License](http://opensource.org/licenses/MIT).  It was designed by Jason Pepas.
 
+# Related designs
+
+- https://github.com/pepaslabs/817-TTL-Serial-Optoisolator
+- https://github.com/pepaslabs/4N35-TTL-Serial-Optoisolator
