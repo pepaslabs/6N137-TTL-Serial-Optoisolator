@@ -5,6 +5,10 @@ A board for isolating a TTL serial RX / TX pair using 6N137 (8-pin) optoisolator
 
 This board is untested.
 
+# Design
+
+See [Designing a TTL Serial Opto isolator](https://github.com/pepaslabs/Electronics/wiki/Designing-a-TTL-Serial-Opto-isolator)
+
 # Board design v1
 
 Initial board design.
